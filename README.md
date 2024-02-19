@@ -1,4 +1,4 @@
-<img src="./Banner-titre.png" width="600">
+<img src="./dojo101DarkbBanner.png" width="600">
 
 ## Contact
 
