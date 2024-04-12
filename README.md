@@ -4,7 +4,7 @@ Si vous avez des questions sur ces projets ou mes services, n'hésitez pas à me
 
 [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:michael.vacarella@protonmail.com)
 
-## Soutien
+## Soutenir les projets open sources
 
 La maintenance des projets et les contributions publiques sont réalisées sur mon temps libre. 
 
