@@ -8,7 +8,7 @@ Si vous avez des questions sur ces projets ou mes services, n'hésitez pas à me
 
 ### Entreprises
 
-Chaque projet peut être parrainé en l'échange de publicité et d'un accès aux solutions des challenges de sécurité.
+Les projets peuvent être parrainés en l'échange de publicité, d'un accès aux dépôts privés et des solutions aux challenges de sécurité.
 
 ### Particuliers
 
