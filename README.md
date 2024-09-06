@@ -1,4 +1,8 @@
-## Contact
+## Welcome / Bienvenue
+
+Je partage ici quelques aspects de mon métier de consultant en cybersécurité, vous y trouverez notamment :
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,windows,azure,powershell,linux,python,docker,ansible,java,spring,js,md,github&perline=16)](https://skillicons.dev)
 
 Si vous avez des questions sur ces projets ou mes services, n'hésitez pas à me contacter.
 
