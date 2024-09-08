@@ -2,7 +2,7 @@
 
 Je partage ici quelques aspects de mon métier de consultant en cybersécurité, vous y trouverez notamment :
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,windows,azure,powershell,linux,python,github,docker,ansible,java,spring,js,md&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,cs,dotnet,windows,azure,linux,kali,python,github,githubactions,docker,ansible,java,spring,js,md&perline=16)](https://skillicons.dev)
 
 Si vous avez des questions sur ces projets ou mes services, n'hésitez pas à me contacter.
 
