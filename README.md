@@ -12,11 +12,11 @@ Je partage ici certains aspects de mon métier de consultant en cybersécurité 
 
 ### Entreprises
 
-Les projets peuvent être parrainés en l'échange de publicité et d'un accès au dépôt privé contenant les solutions aux challenges de sécurité.
+Les projets peuvent être [parrainés en l'échange de publicité et d'un accès au dépôt privé contenant les solutions aux challenges de sécurité](https://github.com/sponsors/Aif4thah?frequency=recurring&sponsor=Aif4thah).
 
 ### Particuliers
 
-Vous pouvez soutenir ce travail grâce à un don, une contribution, ou simplement ajouter une ⭐ aux projets.
+Vous pouvez soutenir ce travail [grâce à un don](https://github.com/sponsors/Aif4thah?frequency=one-time&sponsor=Aif4thah), une contribution, ou simplement ajouter une ⭐ aux projets.
 
 
 
